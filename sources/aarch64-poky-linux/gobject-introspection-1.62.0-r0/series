@@ -1,0 +1,7 @@
+0003-giscanner-add-use-binary-wrapper-option.patch -p1
+0004-giscanner-add-a-use-ldd-wrapper-option.patch -p1
+0005-Prefix-pkg-config-paths-with-PKG_CONFIG_SYSROOT_DIR-.patch -p1
+0001-giscanner-add-a-lib-dirs-envvar-option.patch -p1
+0001-giscanner-ignore-error-return-codes-from-ldd-wrapper.patch -p1
+0001-Port-cross-compilation-support-to-meson.patch -p1
+0001-meson.build-disable-tests-when-cross-compiling.patch -p1

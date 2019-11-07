@@ -1,0 +1,6 @@
+add_shutdown.patch -p1
+nobash.patch -p1
+noshadow.patch -p1
+input.patch -p1
+disable-docs.patch -p1
+kvm.patch -p1

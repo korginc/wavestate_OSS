@@ -1,0 +1,2 @@
+tmpdir.patch -p1
+clear-guid_from_server-if-send_negotiate_unix_f.patch -p1

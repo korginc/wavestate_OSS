@@ -1,0 +1,11 @@
+0001-configure_tool.sh-do-not-quote-the-argument-to-comma.patch -p1
+0001-ExtUtils-MakeMaker-add-LDFLAGS-when-linking-binary-m.patch -p1
+0001-Somehow-this-module-breaks-through-the-perl-wrapper-.patch -p1
+errno_ver.diff -p1
+native-perlinc.patch -p1
+0001-perl-cross-add-LDFLAGS-when-linking-libperl.patch -p1
+perl-dynloader.patch -p1
+0001-configure_path.sh-do-not-hardcode-prefix-lib-as-libr.patch -p1
+fix-setgroup.patch -p1
+0001-enc2xs-Add-environment-variable-to-suppress-comments.patch -p1
+0002-Constant-Fix-up-shebang.patch -p1

@@ -1,0 +1,4 @@
+cairo-get_bitmap_surface-bsc1036789-CVE-2017-7475.diff -p1
+CVE-2018-19876.patch -p1
+CVE-2019-6461.patch -p1
+CVE-2019-6462.patch -p1

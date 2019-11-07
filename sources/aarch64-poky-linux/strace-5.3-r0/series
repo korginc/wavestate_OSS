@@ -1,0 +1,8 @@
+disable-git-version-gen.patch -p1
+more-robust-test-for-m32-mx32-compile-support.patch -p1
+update-gawk-paths.patch -p1
+Makefile-ptest.patch -p1
+mips-SIGEMT.patch -p1
+0001-caps-abbrev.awk-fix-gawk-s-path.patch -p1
+0001-tests-sigaction-Check-for-mips-and-alpha-before-usin.patch -p1
+ptest-spacesave.patch -p1

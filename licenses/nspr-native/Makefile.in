@@ -1,0 +1,35 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+MOD_DEPTH	= .
+topsrcdir	= @top_srcdir@
+srcdir		= @srcdir@
+VPATH		= @srcdir@
+
+include $(MOD_DEPTH)/config/autoconf.mk
+
+DIRS = config pr lib
+
+ifdef MOZILLA_CLIENT
+# Make nsinstall use absolute symlinks by default for Mozilla OSX builds
+# http://bugzilla.mozilla.org/show_bug.cgi?id=193164
+ifeq ($(OS_ARCH),Darwin)
+ifndef NSDISTMODE
+NSDISTMODE=absolute_symlink
+export NSDISTMODE
+endif
+endif
+endif
+
+DIST_GARBAGE = config.cache config.log config.status
+
+all:: config.status export
+
+include $(topsrcdir)/config/rules.mk
+
+config.status:: configure
+ifeq ($(OS_ARCH),WINNT)
+	sh $(srcdir)/configure --no-create --no-recursion
+else

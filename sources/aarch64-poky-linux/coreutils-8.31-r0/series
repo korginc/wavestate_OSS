@@ -1,0 +1,5 @@
+remove-usr-local-lib-from-m4.patch -p1
+fix-selinux-flask.patch -p1
+0001-uname-report-processor-and-hardware-correctly.patch -p1
+disable-ls-output-quoting.patch -p1
+0001-local.mk-fix-cross-compiling-problem.patch -p1

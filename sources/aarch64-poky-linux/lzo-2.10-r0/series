@@ -1,0 +1,2 @@
+0001-Use-memcpy-instead-of-reinventing-it.patch -p1
+0001-Add-pkgconfigdir-to-solve-the-undefine-error.patch -p1

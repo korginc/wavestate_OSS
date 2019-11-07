@@ -1,0 +1,3 @@
+sysfsutils-2.0.0-class-dup.patch -p1
+obsolete_automake_macros.patch -p1
+separatebuild.patch -p1

@@ -1,0 +1,2 @@
+0001-scripts-Use-fixed-input-and-output-files-instead-of-.patch -p1
+0001-kbuild-install_headers.sh-Strip-_UAPI-from-if-define.patch -p1

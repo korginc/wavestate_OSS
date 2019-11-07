@@ -1,0 +1,6 @@
+install.patch -p1
+crypt-lib.patch -p1
+pidof-add-m-option.patch -p1
+0001-This-fixes-an-issue-that-clang-reports-about-mutlipl.patch -p1
+realpath.patch -p1
+0001-include-sys-sysmacros.h-for-major-minor-defines-in-g.patch -p1

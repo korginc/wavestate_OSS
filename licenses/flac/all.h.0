@@ -1,0 +1,6 @@
+ * By writing a little code and linking against libFLAC, it is
+ * relatively easy to add FLAC support to another program.  The
+ * library is licensed under <A HREF="../license.html">Xiph's BSD license</A>.
+ * Complete source code of libFLAC as well as the command-line
+ * encoder and plugins is available and is a useful source of
+ * examples.

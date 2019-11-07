@@ -1,0 +1,3 @@
+fix-CVE-2017-6519.patch -p1
+initscript.patch -p1
+0001-Fix-opening-etc-resolv.conf-error.patch -p1

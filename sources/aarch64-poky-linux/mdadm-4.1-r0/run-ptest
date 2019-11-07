@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# make the test continue to execute even one fail
+./test --keep-going

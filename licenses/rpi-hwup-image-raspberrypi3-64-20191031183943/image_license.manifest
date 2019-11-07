@@ -1,0 +1,15 @@
+RECIPE NAME: bcm2835-bootfiles
+VERSION: 20191021
+LICENSE: Broadcom-RPi
+FILES: start.elf fixup_x.dat fixup4x.dat fixup_db.dat fixup.dat start4x.elf fixup4.dat start4.elf bootcode.bin start_x.elf bcm2835-bootfiles-20191021.stamp start4db.elf start_cd.elf fixup_cd.dat start_db.elf start4cd.elf fixup4cd.dat fixup4db.dat
+
+RECIPE NAME: linux-raspberrypi
+VERSION: 4.14.114+gitAUTOINC+7688b39276
+LICENSE: GPLv2
+FILES: w1-gpio-pullup-1-4.14.114+git0+7688b39276-r0-raspberrypi3-64-20191031183943.dtbo rpi-ft5406-1-4.14.114+git0+7688b39276-r0-raspberrypi3-64-20191031183943.dtbo iqaudio-dacplus-1-4.14.114+git0+7688b39276-r0-raspberrypi3-64-20191031183943.dtbo at86rf233-1-4.14.114+git0+7688b39276-r0-raspberrypi3-64-20191031183943.dtbo i2c-rtc-1-4.14.114+git0+7688b39276-r0-raspberrypi3-64-20191031183943.dtbo pitft22-1-4.14.114+git0+7688b39276-r0-raspberrypi3-64-20191031183943.dtbo bcm2710-rpi-cm3-1-4.14.114+git0+7688b39276-r0-raspberrypi3-64-20191031183943.dtb hifiberry-dac-1-4.14.114+git0+7688b39276-r0-raspberrypi3-64-20191031183943.dtbo pi3-miniuart-bt-1-4.14.114+git0+7688b39276-r0-raspberrypi3-64-20191031183943.dtbo hifiberry-amp-1-4.14.114+git0+7688b39276-r0-raspberrypi3-64-20191031183943.dtbo gpio-poweroff-1-4.14.114+git0+7688b39276-r0-raspberrypi3-64-20191031183943.dtbo wavest8-codec-1-4.14.114+git0+7688b39276-r0-raspberrypi3-64-20191031183943.dtbo pitft35-resistive-1-4.14.114+git0+7688b39276-r0-raspberrypi3-64-20191031183943.dtbo mcp2515-can0-1-4.14.114+git0+7688b39276-r0-raspberrypi3-64-20191031183943.dtbo dwc2-1-4.14.114+git0+7688b39276-r0-raspberrypi3-64-20191031183943.dtbo iqaudio-dac-1-4.14.114+git0+7688b39276-r0-raspberrypi3-64-20191031183943.dtbo pi3-disable-bt-1-4.14.114+git0+7688b39276-r0-raspberrypi3-64-20191031183943.dtbo pitft28-resistive-1-4.14.114+git0+7688b39276-r0-raspberrypi3-64-20191031183943.dtbo hifiberry-digi-1-4.14.114+git0+7688b39276-r0-raspberrypi3-64-20191031183943.dtbo rpi-poe-1-4.14.114+git0+7688b39276-r0-raspberrypi3-64-20191031183943.dtbo pps-gpio-1-4.14.114+git0+7688b39276-r0-raspberrypi3-64-20191031183943.dtbo midi-uart1-1-4.14.114+git0+7688b39276-r0-raspberrypi3-64-20191031183943.dtbo uart1-1-4.14.114+git0+7688b39276-r0-raspberrypi3-64-20191031183943.dtbo gpio-key-1-4.14.114+git0+7688b39276-r0-raspberrypi3-64-20191031183943.dtbo Image-1-4.14.114+git0+7688b39276-r0-raspberrypi3-64-20191031183943.bin SparkSysVarsClear.h vc4-kms-v3d-1-4.14.114+git0+7688b39276-r0-raspberrypi3-64-20191031183943.dtbo vc4-fkms-v3d-1-4.14.114+git0+7688b39276-r0-raspberrypi3-64-20191031183943.dtbo modules-1-4.14.114+git0+7688b39276-r0-raspberrypi3-64-20191031183943.tgz hifiberry-dacplus-1-4.14.114+git0+7688b39276-r0-raspberrypi3-64-20191031183943.dtbo w1-gpio-1-4.14.114+git0+7688b39276-r0-raspberrypi3-64-20191031183943.dtbo cmdline.txt
+
+RECIPE NAME: rpi-config
+VERSION: git
+LICENSE: MIT
+FILES: scriptexecute.img kernel.img config.txt
+

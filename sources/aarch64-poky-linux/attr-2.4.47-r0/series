@@ -1,0 +1,7 @@
+relative-libdir.patch -p0
+attr-Missing-configure.ac.patch -p1
+dont-use-decl-macros.patch -p1
+Remove-the-section-2-man-pages.patch -p1
+Remove-the-attr.5-man-page-moved-to-man-pages.patch -p1
+0001-Use-stdint-types-consistently.patch -p1
+0001-Added-configure-option-to-enable-disable-static-libr.patch -p1

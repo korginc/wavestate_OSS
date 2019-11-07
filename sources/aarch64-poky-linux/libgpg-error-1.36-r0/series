@@ -1,0 +1,2 @@
+pkgconfig.patch -p1
+libgpg-error-1.36-gawk5-support.patch -p1

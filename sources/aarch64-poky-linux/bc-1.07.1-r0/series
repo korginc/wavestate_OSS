@@ -1,0 +1,2 @@
+no-gen-libmath.patch -p1
+0001-dc-fix-exit-code-of-q-command.patch -p1

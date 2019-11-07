@@ -1,0 +1,2 @@
+0001-configure-Add-option-to-enable-disable-libnfnetlink.patch -p1
+0002-configure.ac-only-check-conntrack-when-libnfnetlink-enabled.patch -p1

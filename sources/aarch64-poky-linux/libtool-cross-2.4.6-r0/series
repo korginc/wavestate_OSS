@@ -1,0 +1,14 @@
+trailingslash.patch -p1
+rename-with-sysroot.patch -p1
+use-sysroot-in-libpath.patch -p1
+fix-final-rpath.patch -p1
+fix-rpath.patch -p1
+norm-rpath.patch -p1
+dont-depend-on-help2man.patch -p1
+fix-resolve-lt-sysroot.patch -p1
+nohardcodepaths.patch -p1
+unwind-opt-parsing.patch -p1
+0001-libtool-Fix-support-for-NIOS2-processor.patch -p1
+0001-libtool-Check-for-static-libs-for-internal-compiler-.patch -p1
+prefix.patch -p1
+fixinstall.patch -p1

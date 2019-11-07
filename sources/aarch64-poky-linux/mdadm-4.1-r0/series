@@ -1,0 +1,12 @@
+mdadm-3.3.2_x32_abi_time_t.patch -p1
+mdadm-fix-ptest-build-errors.patch -p1
+0001-mdadm.h-Undefine-dprintf-before-redefining.patch -p1
+0001-Fix-the-path-of-corosync-and-dlm-header-files-check.patch -p1
+0001-Use-CC-to-check-for-implicit-fallthrough-warning-sup.patch -p1
+0001-Compute-abs-diff-in-a-standard-compliant-way.patch -p1
+0001-fix-gcc-8-format-truncation-warning.patch -p1
+debian-no-Werror.patch -p1
+0001-Revert-tests-wait-for-complete-rebuild-in-integrity-.patch -p1
+0001-mdadm-add-option-y-for-use-syslog-to-recive-event-re.patch -p1
+include_sysmacros.patch -p1
+0001-mdadm-skip-test-11spare-migration.patch -p1

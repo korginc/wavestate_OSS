@@ -1,0 +1,13 @@
+out-of-tree.patch -p1
+0001-Allow-using-obexd-without-systemd-in-the-user-sessio.patch -p1
+0001-tests-add-a-target-for-building-tests-without-runnin.patch -p1
+0001-test-gatt-Fix-hung-issue.patch -p1
+0001-Makefile.am-Fix-a-race-issue-for-tools.patch -p1
+CVE-2018-10910.patch -p1
+gcc9-fixes.patch -p1
+0001-tools-Fix-build-after-y2038-changes-in-glibc.patch -p1
+0001-tools-btpclient.c-include-signal.h.patch -p1
+0001-bcm43xx-Add-bcm43xx-3wire-variant.patch -p1
+0002-bcm43xx-The-UART-speed-must-be-reset-after-the-firmw.patch -p1
+0003-Increase-firmware-load-timeout-to-30s.patch -p1
+0004-Move-the-43xx-firmware-into-lib-firmware.patch -p1

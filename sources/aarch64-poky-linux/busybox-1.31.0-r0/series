@@ -1,0 +1,9 @@
+busybox-udhcpc-no_deconfig.patch -p1
+fail_on_no_media.patch -p1
+recognize_connmand.patch -p1
+busybox-cross-menuconfig.patch -p1
+0001-Use-CC-when-linking-instead-of-LD-and-use-CFLAGS-and.patch -p1
+makefile-libbb-race.patch -p1
+0001-testsuite-check-uudecode-before-using-it.patch -p1
+0001-testsuite-use-www.example.org-for-wget-test-cases.patch -p1
+0001-du-l-works-fix-to-use-145-instead-of-144.patch -p1

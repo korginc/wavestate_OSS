@@ -1,0 +1,11 @@
+0001-gdbserver-ctrl-c-handling.patch -p1
+0002-make-man-install-relative-to-DESTDIR.patch -p1
+0003-mips-linux-nat-Define-_ABIO32-if-not-defined.patch -p1
+0004-ppc-ptrace-Define-pt_regs-uapi_pt_regs-on-GLIBC-syst.patch -p1
+0005-Add-support-for-Renesas-SH-sh4-architecture.patch -p1
+0006-Dont-disable-libreadline.a-when-using-disable-static.patch -p1
+0007-use-asm-sgidefs.h.patch -p1
+0008-Use-exorted-definitions-of-SIGRTMIN.patch -p1
+0009-Change-order-of-CFLAGS.patch -p1
+0010-resolve-restrict-keyword-conflict.patch -p1
+0011-Fix-invalid-sigprocmask-call.patch -p1

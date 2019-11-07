@@ -1,0 +1,2 @@
+parallelmake.patch -p1
+install-data-hook.patch -p1
