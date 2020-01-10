@@ -6,8 +6,8 @@ Korg wavestate open wavestate_OSS software and licenses
 ### Source code used for creation of Linux via Yocto (aarch64):
 
 #### acl-2.2.52-r0
-	[wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/wavestate_OSSs/aarch64-poky-linux/acl-2.2.52-r0)
-	[acl-2.2.52.src.tar.gz](https://download-mirror.savannah.gnu.org/releases/acl/acl-2.2.52.src.tar.gz)
+- [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/wavestate_OSSs/aarch64-poky-linux/acl-2.2.52-r0)
+- [acl-2.2.52.src.tar.gz](https://download-mirror.savannah.gnu.org/releases/acl/acl-2.2.52.src.tar.gz)
 #### alsa-lib-1.1.9
 	[alsa-lib-1.1.9.tar.bz2](https://www.alsa-project.org/files/pub/lib/alsa-lib-1.1.9.tar.bz2)
 #### alsa-utils-1.1.9-r0
