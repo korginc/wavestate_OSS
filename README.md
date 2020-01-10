@@ -215,9 +215,6 @@ Korg wavestate open source wavestate_OSS software and licenses
 #### strace-5.3-r0
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/strace-5.3-r0)
 - [strace-5.3.tar.xz](https://github.com/strace/strace/releases/download/v5.3/strace-5.3.tar.xz)
-#### stress-ng-0.10.08-r0
-- [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/stress-ng-0.10.08-r0)
-- [stress-ng-0.10.08.tar.xz](stress-ng-0.10.08.tar.xz)
 #### sysfsutils-2.1.0-r5
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/sysfsutils-2.1.0-r5)
 - [sysfsutils-2.1.0.tar.gz](https://src.fedoraproject.org/repo/pkgs/sysfsutils/sysfsutils-2.1.0.tar.gz/14e7dcd0436d2f49aa403f67e1ef7ddc/sysfsutils-2.1.0.tar.gz)
