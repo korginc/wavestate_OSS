@@ -1,7 +1,7 @@
 # wavestate_OSS
-Korg wavestate open wavestate_OSS software and licenses
+Korg wavestate open source wavestate_OSS software and licenses
 
-## Links to open wavestate_OSS code repositories
+## Links to open source wavestate_OSS code repositories
 
 ### Source code used for creation of Linux via Yocto (aarch64):
 
