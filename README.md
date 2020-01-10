@@ -33,20 +33,19 @@ Korg wavestate open wavestate_OSS software and licenses
 - [bc-1.07.1.tar.gz](http://ftp.gnu.org/gnu/bc/bc-1.07.1.tar.gz)
 #### binutils-cross-aarch64-2.32.0-r0
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/binutils-cross-aarch64-2.32.0-r0)
-- [binutils-cross-aarch64-2.32.0-r0.tar.gz](git://sourceware.org/git/binutils-gdb.git)
-- branch=binutils-2_32-branch; protocol=git
+- binutils-cross-aarch64-2.32.0-r0 source available at git://sourceware.org/git/binutils-gdb.git;branch=binutils-2_32-branch;protocol=git
 #### bluez-5.50
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/bluez5-5.50-r0)
 - [bluez-5.50.tar.xz](https://www.kernel.org/pub/linux/bluetooth/bluez-5.50.tar.xz)
 #### btrfs-tools-5.2.2-r0
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/btrfs-tools-5.2.2-r0)
-- [btrfs-tools-5.2.2-r0.tar.gz](git://git.kernel.org/pub/scm/linux/kernel/git/kdave/btrfs-progs.git)
+- btrfs-tools-5.2.2-r0 source available at git://git.kernel.org/pub/scm/linux/kernel/git/kdave/btrfs-progs.git
 #### busybox-1.31.0-r0
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/busybox-1.31.0-r0)
 - [busybox-1.31.0.tar.bz2](https://www.busybox.net/downloads/busybox-1.31.0.tar.bz2)
 #### ca-certificates-20190110-r0
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/ca-certificates-20190110-r0)
-- [ca-certificates-20190110-r0.tar.gz](git://salsa.debian.org/debian/ca-certificates.git;protocol=https)
+- ca-certificates-20190110-r0 source available at git://salsa.debian.org/debian/ca-certificates.git;protocol=https
 #### cairo-1.16.0-r0
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/cairo-1.16.0-r0)
 - [cairo-1.16.0-r0.tar.xz](http://cairographics.org/releases/cairo-1.16.0.tar.xz)
@@ -64,7 +63,7 @@ Korg wavestate open wavestate_OSS software and licenses
 - [diffutils-3.7.tar.xz](http://ftp.gnu.org/gnu/diffutils/diffutils-3.7.tar.xz)
 #### e2fsprogs-1.45.4-r0
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/e2fsprogs-1.45.4-r0)
-- [e2fsprogs-1.45.4-r0.tar.gz](git://git.kernel.org/pub/scm/fs/ext2/e2fsprogs.git)
+- e2fsprogs-1.45.4-r0 source available at git://git.kernel.org/pub/scm/fs/ext2/e2fsprogs.git
 #### elfutils-0.177-r0
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/elfutils-0.177-r0)
 - [elfutils-0.177.tar.bz2](https://sourceware.org/elfutils/ftp/0.177/elfutils-0.177.tar.bz2)
@@ -93,12 +92,12 @@ Korg wavestate open wavestate_OSS software and licenses
 - [glib-2.62.1.tar.xz](http://ftp.gnome.org/pub/GNOME/sources/glib/2.62/glib-2.62.1.tar.xz)
 #### glibc-2.30-r0
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/glibc-2.30-r0)
-- [glibc-2.30-r0-glibc.tar.gz](git://sourceware.org/git/glibc.git;branch=release/2.30/master;name=glibc)
+- glibc-2.30-r0-glibc source available at git://sourceware.org/git/glibc.git;branch=release/2.30/master;name=glibc
 #### gmp-6.1.2-r0
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/gmp-6.1.2-r0)
 - [gmp-6.1.2.tar.bz2](https://ftp.gnu.org/gnu/gmp/gmp-6.1.2.tar.bz2)
 #### gnome-desktop-testing-2018.1-r0
-- [gnome-desktop-testing-2018.1-r0.tar.gz](git://gitlab.gnome.org/GNOME/gnome-desktop-testing.git;protocol=http)
+- gnome-desktop-testing-2018.1-r0 source available at git://gitlab.gnome.org/GNOME/gnome-desktop-testing.git;protocol=http
 #### gobject-introspection-1.62.0-r0
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/gobject-introspection-1.62.0-r0)
 - [gobject-introspection-1.62.1.tar.xz](http://ftp.gnome.org/pub/GNOME/sources/gobject-introspection/1.60/gobject-introspection-1.62.1.tar.xz)
@@ -117,7 +116,7 @@ Korg wavestate open wavestate_OSS software and licenses
 - [kbd-2.0.4.tar.xz](http://ftp.be.debian.org/pub/linux/utils/kbd/kbd-2.0.4.tar.xz)
 #### kmod-26-r0
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/kmod-26-r0)
-- [kmod-26-r0.tar.gz](git://git.kernel.org/pub/scm/utils/kernel/kmod/kmod.git)
+- kmod-26-r0 source available at git://git.kernel.org/pub/scm/utils/kernel/kmod/kmod.git
 #### libcap-2.27-r0
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/libcap-2.27-r0)
 - [libcap-2.27.tar.xz](http://cdn.kernel.org/pub/linux/libs/security/linux-privs/libcap2/libcap-2.27.tar.xz)
@@ -147,7 +146,7 @@ Korg wavestate open wavestate_OSS software and licenses
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/libmnl-1.0.4-r0)
 - [libmnl-1.0.4.tar.bz2](http://ftp.netfilter.org/pub/libmnl/libmnl-1.0.4.tar.bz2)
 #### libnsl
-- [libnsl](git://github.com/thkukuk/libnsl)
+- libnsl source available at git://github.com/thkukuk/libnsl
 #### nss-mdns-0.10
 - [nss-mdns-0.10.tar.gz](http://0pointer.de/lennart/projects/nss-mdns/nss-mdns-0.10.tar.gz)
 #### libsndfile1-1.0.28-r0
@@ -160,12 +159,12 @@ Korg wavestate open wavestate_OSS software and licenses
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/libusb1-1.0.22-r0)
 - [libusb-1.0.22.tar.bz2](https://github.com/libusb/libusb/releases/download/v1.0.22/libusb-1.0.22.tar.bz2)
 #### libxcrypt-4.4.8-r0
-- [ilibxcrypt-4.4.8-r0.tar.gz](git://github.com/besser82/libxcrypt.git;branch=develop)
+- libxcrypt-4.4.8-r0 source available at git://github.com/besser82/libxcrypt.git;branch=develop
 #### linux-libc-headers-5.2-r0
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/linux-libc-headers-5.2-r0)
 - [linux-5.2.tar.xz](https://mirrors.edge.kernel.org/pub/linux/kernel/v5.x/linux-5.2.tar.xz)
 #### linux-raspberrypi-1_4.14.112
-- [linux-raspberrypi-1_4.14.112](git://github.com/raspberrypi/linux.git;protocol=git;branch=rpi-4.14.y)
+- linux-raspberrypi-1_4.14.112 source available at git://github.com/raspberrypi/linux.git;protocol=git;branch=rpi-4.14.y
 #### lzo-2.10-r0
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/lzo-2.10-r0)
 - [lzo-2.10.tar.gz](http://www.oberhumer.com/opensource/lzo/download/lzo-2.10.tar.gz)
@@ -204,7 +203,7 @@ Korg wavestate open wavestate_OSS software and licenses
 - [rng-tools-6.7.tar.gz](https://github.com/nhorman/rng-tools/archive/v6.7.tar.gz)
 #### rt-tests-1_1.1-r0
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/rt-tests-1_1.1-r0)
-- [rt-tests-1_1.1-r0.tar.gz](git://git.kernel.org/pub/scm/utils/rt-tests/rt-tests.git)
+- rt-tests-1_1.1-r0 source available at git://git.kernel.org/pub/scm/utils/rt-tests/rt-tests.git
 #### sed-4.2.2-r0
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/sed-4.2.2-r0)
 - [sed-4.2.2.tar.gz](https://ftp.gnu.org/gnu/sed/sed-4.2.2.tar.gz)
@@ -226,7 +225,7 @@ Korg wavestate open wavestate_OSS software and licenses
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/sysvinit-2.88dsf-r14)
 - [sysvinit-2.88dsf.tar.bz2](http://repository.timesys.com/buildsources/s/sysvinit/sysvinit-2.88dsf/sysvinit-2.88dsf.tar.bz2)
 #### update-rc.d-0.8-r0
-- [update-rc.d-0.8-r0.tar.gz](git://git.yoctoproject.org/update-rc.d)
+- update-rc.d-0.8-r0 source available at git://git.yoctoproject.org/update-rc.d
 #### usbutils-010
 - [usbutils-010.tar.gz](http://cdn.kernel.org/pub/linux/utils/usb/usbutils/usbutils-010.tar.gz)
 #### util-linux-2.34-r0
@@ -242,10 +241,10 @@ Korg wavestate open wavestate_OSS software and licenses
 
 #### lib32-binutils-cross-arm-2.32.0-r0
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/arm-pokymllib32-linux-gnueabi/lib32-binutils-cross-arm-2.32.0-r0)
-- [lib32-binutils-cross-arm-2.32.0-r0.tar.gz](git://sourceware.org/git/binutils-gdb.git;branch=binutils-2_32-branch;protocol=git)
+- lib32-binutils-cross-arm-2.32.0-r0 source available at git://sourceware.org/git/binutils-gdb.git;branch=binutils-2_32-branch;protocol=git
 #### lib32-glibc-2.30-r0
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/arm-pokymllib32-linux-gnueabi/lib32-glibc-2.30-r0)
-- [lib32-glibc-2.30-r0-glibc.tar.gz](git://sourceware.org/git/glibc.git;branch=release/2.29/master;name=glibc)
+- lib32-glibc-2.30-r0-glibc source available at git://sourceware.org/git/glibc.git;branch=release/2.29/master;name=glibc
 #### lib32-linux-libc-headers-5.2-r0
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/arm-pokymllib32-linux-gnueabi/lib32-linux-libc-headers-5.2-r0)
 - [linux-5.2.tar.xz](https://mirrors.edge.kernel.org/pub/linux/kernel/v5.x/linux-5.2.tar.xz)
