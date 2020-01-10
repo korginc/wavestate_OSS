@@ -33,7 +33,8 @@ Korg wavestate open wavestate_OSS software and licenses
 - [bc-1.07.1.tar.gz](http://ftp.gnu.org/gnu/bc/bc-1.07.1.tar.gz)
 #### binutils-cross-aarch64-2.32.0-r0
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/binutils-cross-aarch64-2.32.0-r0)
-- [binutils-cross-aarch64-2.32.0-r0.tar.gz](git://sourceware.org/git/binutils-gdb.git;branch=binutils-2_32-branch;protocol=git)
+- [binutils-cross-aarch64-2.32.0-r0.tar.gz](git://sourceware.org/git/binutils-gdb.git)
+- branch=binutils-2_32-branch; protocol=git
 #### bluez-5.50
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/bluez5-5.50-r0)
 - [bluez-5.50.tar.xz](https://www.kernel.org/pub/linux/bluetooth/bluez-5.50.tar.xz)
