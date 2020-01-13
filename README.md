@@ -33,7 +33,7 @@ Korg wavestate open source wavestate_OSS software and licenses
 - [bc-1.07.1.tar.gz](http://ftp.gnu.org/gnu/bc/bc-1.07.1.tar.gz)
 #### binutils-cross-aarch64-2.32.0-r0
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/binutils-cross-aarch64-2.32.0-r0)
-- binutils-cross-aarch64-2.32.0-r0 source available at https://sourceware.org/git/binutils-gdb.git;branch=binutils-2_32-branch
+- binutils-cross-aarch64-2.32.0-r0 source available at https://sourceware.org/git/binutils-gdb.git   branch=binutils-2_32-branch
 #### bluez-5.50
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/bluez5-5.50-r0)
 - [bluez-5.50.tar.xz](https://www.kernel.org/pub/linux/bluetooth/bluez-5.50.tar.xz)
@@ -92,7 +92,7 @@ Korg wavestate open source wavestate_OSS software and licenses
 - [glib-2.62.1.tar.xz](http://ftp.gnome.org/pub/GNOME/sources/glib/2.62/glib-2.62.1.tar.xz)
 #### glibc-2.30-r0
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/glibc-2.30-r0)
-- glibc-2.30-r0-glibc source available at https://sourceware.org/git/glibc.git;branch=release/2.30/master;name=glibc
+- glibc-2.30-r0-glibc source available at https://sourceware.org/git/glibc.git   branch=release/2.30/master;name=glibc
 #### gmp-6.1.2-r0
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/gmp-6.1.2-r0)
 - [gmp-6.1.2.tar.bz2](https://ftp.gnu.org/gnu/gmp/gmp-6.1.2.tar.bz2)
@@ -158,12 +158,12 @@ Korg wavestate open source wavestate_OSS software and licenses
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/libusb1-1.0.22-r0)
 - [libusb-1.0.22.tar.bz2](https://github.com/libusb/libusb/releases/download/v1.0.22/libusb-1.0.22.tar.bz2)
 #### libxcrypt-4.4.8-r0
-- libxcrypt-4.4.8-r0 source available at https://github.com/besser82/libxcrypt.git;branch=develop
+- libxcrypt-4.4.8-r0 source available at https://github.com/besser82/libxcrypt.git   branch=develop
 #### linux-libc-headers-5.2-r0
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/linux-libc-headers-5.2-r0)
 - [linux-5.2.tar.xz](https://mirrors.edge.kernel.org/pub/linux/kernel/v5.x/linux-5.2.tar.xz)
 #### linux-raspberrypi-1_4.14.112
-- linux-raspberrypi-1_4.14.112 source available at https://github.com/raspberrypi/linux.git;branch=rpi-4.14.y
+- linux-raspberrypi-1_4.14.112 source available at https://github.com/raspberrypi/linux.git   branch=rpi-4.14.y
 #### lzo-2.10-r0
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/lzo-2.10-r0)
 - [lzo-2.10.tar.gz](http://www.oberhumer.com/opensource/lzo/download/lzo-2.10.tar.gz)
