@@ -237,10 +237,10 @@ Korg wavestate open source wavestate_OSS software and licenses
 
 #### lib32-binutils-cross-arm-2.32.0-r0
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/arm-pokymllib32-linux-gnueabi/lib32-binutils-cross-arm-2.32.0-r0)
-- lib32-binutils-cross-arm-2.32.0-r0 source available at https://sourceware.org/git/binutils-gdb.git;branch=binutils-2_32-branch
+- lib32-binutils-cross-arm-2.32.0-r0 source available at https://sourceware.org/git/binutils-gdb.git   branch=binutils-2_32-branch
 #### lib32-glibc-2.30-r0
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/arm-pokymllib32-linux-gnueabi/lib32-glibc-2.30-r0)
-- lib32-glibc-2.30-r0-glibc source available at https://sourceware.org/git/glibc.git;branch=release/2.29/master;name=glibc
+- lib32-glibc-2.30-r0-glibc source available at https://sourceware.org/git/glibc.git   branch=release/2.29/master;name=glibc
 #### lib32-linux-libc-headers-5.2-r0
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/arm-pokymllib32-linux-gnueabi/lib32-linux-libc-headers-5.2-r0)
 - [linux-5.2.tar.xz](https://mirrors.edge.kernel.org/pub/linux/kernel/v5.x/linux-5.2.tar.xz)
