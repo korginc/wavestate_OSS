@@ -6,14 +6,14 @@ Korg wavestate open source wavestate_OSS software and licenses
 ### Source code used for creation of Linux via Yocto (aarch64):
 
 #### acl-2.2.52-r0
-- [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/wavestate_OSSs/aarch64-poky-linux/acl-2.2.52-r0)
+- [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/acl-2.2.52-r0)
 - [acl-2.2.52.src.tar.gz](https://download-mirror.savannah.gnu.org/releases/acl/acl-2.2.52.src.tar.gz)
 #### alsa-lib-1.1.9
 - [alsa-lib-1.1.9.tar.bz2](https://www.alsa-project.org/files/pub/lib/alsa-lib-1.1.9.tar.bz2)
 #### alsa-utils-1.1.9-r0
 - [alsa-utils-1.1.9-r0.tar.bz2](https://www.alsa-project.org/files/pub/utils/alsa-utils-1.1.9.tar.bz2)
 #### attr-2.4.47-r0
-- [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/wavestate_OSSs/aarch64-poky-linux/attr-2.4.47-r0)
+- [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/attr-2.4.47-r0)
 - [attr-2.4.47.src.tar.gz](http://download.savannah.gnu.org/releases/attr/attr-2.4.47.src.tar.gz)
 #### autoconf-archive-2018.03.13
 - [autoconf-archive-2018.03.13.tar.xz](http://ftp.gnu.org/gnu/autoconf-archive/autoconf-archive-2018.03.13.tar.xz)
@@ -143,7 +143,6 @@ Korg wavestate open source wavestate_OSS software and licenses
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/libjitterentropy-2.1.2-r0)
 - [libjitterentropy-2.1.2-r0-patched.tar.gz](https://ci.foundries.io/projects/lmp/builds/612/build-apalis-imx6/artifacts/other/source-release/libjitterentropy/source/libjitterentropy-2.1.2-r0-patched.tar.gz)
 #### libmnl-1.0.4-r0
-- [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/libmnl-1.0.4-r0)
 - [libmnl-1.0.4.tar.bz2](http://ftp.netfilter.org/pub/libmnl/libmnl-1.0.4.tar.bz2)
 #### libnsl
 - libnsl source available at https://github.com/thkukuk/libnsl
