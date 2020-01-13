@@ -100,7 +100,7 @@ Korg wavestate open source wavestate_OSS software and licenses
 - gnome-desktop-testing-2018.1-r0 source available at https://gitlab.gnome.org/GNOME/gnome-desktop-testing.git
 #### gobject-introspection-1.62.0-r0
 - [wavestate_OSS folder](https://github.com/korginc/wavestate_OSS/tree/master/sources/aarch64-poky-linux/gobject-introspection-1.62.0-r0)
-- [gobject-introspection-1.62.1.tar.xz](http://ftp.gnome.org/pub/GNOME/sources/gobject-introspection/1.60/gobject-introspection-1.62.1.tar.xz)
+- [gobject-introspection-1.62.0.tar.xz](http://ftp.gnome.org/pub/GNOME/sources/gobject-introspection/1.62/gobject-introspection-1.62.0.tar.xz)
 #### grep-3.3
 - [grep-3.3.tar.xz](http://ftp.gnu.org/gnu/grep/grep-3.3.tar.xz)
 #### i2c-tools-4.1
